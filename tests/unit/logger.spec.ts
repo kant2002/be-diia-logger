@@ -1,6 +1,6 @@
 import { Writable } from 'stream'
 
-import { LogLevel, LoggerConfig } from '@diia-inhouse/types'
+import { LogLevel, LoggerConfig } from '@kant2002-diia-inhouse/types'
 
 import DiiaLogger from '../../src/index'
 

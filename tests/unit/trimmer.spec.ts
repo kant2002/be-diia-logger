@@ -1,4 +1,4 @@
-import { TrimmerOptions } from '@diia-inhouse/types'
+import { TrimmerOptions } from '@kant2002-diia-inhouse/types'
 
 import { trimmer } from '../../src/trimmer'
 

@@ -1,4 +1,4 @@
-import { LogLevel, LoggerOptions } from '@diia-inhouse/types'
+import { LogLevel, LoggerOptions } from '@kant2002-diia-inhouse/types'
 
 export const defaultOptions: LoggerOptions = {
     logLevel: LogLevel.INFO,

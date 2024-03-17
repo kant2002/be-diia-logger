@@ -2,7 +2,7 @@
 import { ObjectId } from 'bson'
 import { isObject } from 'lodash'
 
-import { TrimmerOptions } from '@diia-inhouse/types'
+import { TrimmerOptions } from '@kant2002-diia-inhouse/types'
 
 const walker = (opts: TrimmerOptions, node: any, depth: number): any => {
     if (node instanceof Error) {

@@ -4,7 +4,7 @@ import { AsyncLocalStorage } from 'async_hooks'
 import { isObject } from 'lodash'
 import pino, { DestinationStream, Logger as PinoLogger, stdSerializers } from 'pino'
 
-import { AlsData, LogData, LogLevel, Logger, LoggerConfig, TrimmerOptions } from '@diia-inhouse/types'
+import { AlsData, LogData, LogLevel, Logger, LoggerConfig, TrimmerOptions } from '@kant2002-diia-inhouse/types'
 
 import { defaultOptions } from './config'
 import { trimmer } from './trimmer'
